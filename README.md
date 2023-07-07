@@ -9,8 +9,8 @@
 
 ### Skills
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height="100em" align="center" src= "https://github-readme-stats.vercel.app/api?username=Bialves&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight"/>
+  <img height="140em" align="center" src= "https://github-readme-stats.vercel.app/api?username=Bialves&include_all_commits=true&count_private=true&show_icons=true&theme=tokyonight"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height="100em" align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Bialves&theme=tokyonight&layout=compact" />
+  <img height="140em" align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Bialves&theme=tokyonight&layout=compact" />
 </a>
