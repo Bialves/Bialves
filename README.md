@@ -11,7 +11,7 @@
   <img align="center" src= "https://github-readme-stats.vercel.app/api?username=Bialves&count_private=true&show_icons=true&theme=tokyonight"/>
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Bialves&repo=convoychat" />
+  <img align="center" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=Bialves&layout=compact" />
 </a>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bialves&count_private=true&show_icons=true&theme=tokyonight)
