@@ -12,7 +12,7 @@ I am curious about everything involving technology and determined to learn new t
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Bialves&show_icons=true&include_all_commits=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bialves&layout=compact&langs_count=8&card_width=200&theme=tokyonight" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bialves&layout=compact&size_weight=0.5&count_weight=0.5&theme=tokyonight" />
 </a>
 
 ### Contacts
