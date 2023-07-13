@@ -8,13 +8,11 @@ My contact with programming began in 2015, through social educational robotics p
 I am curious about everything involving technology and determined to learn new things, however, at the moment I am most interested in the areas of game development, algorithm analysis and back-end development.
 
 ### Skills
-![Bianca's GitHub stats](https://github-readme-stats.vercel.app/api?username=Bialves&show_icons=true&include_all_commits=true&theme=tokyonight)
-
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Bialves&show_icons=true&include_all_commits=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bialves&layout=compact&langs_count=8&card_width=320" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bialves&layout=compact&langs_count=8&card_width=300" />
 </a>
 
 ### Contacts
