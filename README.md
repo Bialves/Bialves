@@ -1,10 +1,9 @@
 ## Hi, I’m @Bialves 👋
-- 👀 I’m interested in robotics (FRC) and game development
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning web development (HTML5, CSS3 and JavaScript)
 - 📚 Student at Software Engineering
 
 ### About me
-My name is Bianca, I currently live in Brazil and I am studying Software Engineering at PUCRS university. 
+My name is Bianca, I'm 19 years old, I currently live in Brazil and I am studying Software Engineering at PUCRS university. 
 My contact with programming began in 2015, through social educational robotics projects and FIRST competitions.
 I am curious about everything involving technology and determined to learn new things, however, at the moment I am most interested in the areas of game development, algorithm analysis and back-end development.
 
