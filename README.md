@@ -9,7 +9,7 @@ I am curious about everything involving technology and determined to learn new t
 
 ### Skills
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Bialves&show_icons=true&include_all_commits=true&theme=tokyonight" />
+  <img height=170 align="center" src="https://github-readme-stats.vercel.app/api?username=Bialves&show_icons=true&include_all_commits=true&theme=tokyonight" />
 </a>
 <a href="https://github.com/anuraghazra/convoychat">
   <img height=170 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Bialves&layout=compact&langs_count=8&card_width=200&theme=tokyonight" />
