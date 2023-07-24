@@ -1,5 +1,5 @@
 ## Hi, I’m @Bialves 👋
-- 🌱 I’m currently learning web development (HTML5, CSS3 and JavaScript)
+- 🌱 I’m currently learning web development (HTML5, CSS3 and JavaScript) and Linux server
 - 📚 Student at Software Engineering
 
 ### About me
