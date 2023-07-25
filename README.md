@@ -11,7 +11,7 @@ I am curious about everything involving technology and determined to learn new t
 <div>
   <a href="https://github.com/Bialves">
     <p align="center">
-      <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=Bialves&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+      <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=Bialves&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
       <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bialves&layout=compact&langs_count=7&theme=dracula"/>
     </p>
 </div>
