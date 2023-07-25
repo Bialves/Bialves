@@ -15,7 +15,6 @@ I am curious about everything involving technology and determined to learn new t
       <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bialves&layout=compact&langs_count=7&theme=dracula"/>
     </p>
 </div>
-<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
