@@ -8,10 +8,12 @@ My contact with programming began in 2015, through social educational robotics p
 I am curious about everything involving technology and determined to learn new things, however, at the moment I am most interested in the areas of game development, algorithm analysis and back-end development.
 
 ### Skills
-<div  align-items: center>
+<div>
   <a href="https://github.com/Bialves">
-    <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=Bialves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bialves&layout=compact&langs_count=7&theme=dracula"/>
+    <p align="center">
+      <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=Bialves&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+      <img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bialves&layout=compact&langs_count=7&theme=dracula"/>
+    </p>
 </div>
 <br>
 
