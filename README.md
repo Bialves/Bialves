@@ -1,4 +1,5 @@
 ## Hi, I’m Bia 👋
+<div>
 <p align="right">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
 </p>
@@ -6,6 +7,8 @@
 - 🌱 I’m currently learning web development (HTML5, CSS3 and JavaScript) and Linux server
 - 📚 Student at Software Engineering
 </p>
+</div>
+
 ### About me
 <p align="justify"> 
 My name is Bianca and my nickname is Bia, I'm 19 years old, I currently live in Brazil and I am studying Software Engineering at PUCRS university. My contact with programming began in 2015, through social educational robotics projects and FIRST competitions. I am curious about everything involving technology and determined to learn new things, however, at the moment I am most interested in the areas of game development, algorithm analysis and back-end development.
