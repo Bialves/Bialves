@@ -3,10 +3,8 @@
   <p align="right">
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   </p>
-  <p align="left">
-    - 🌱 I’m currently learning web development (HTML5, CSS3 and JavaScript) and Linux server
-    - 📚 Student at Software Engineering
-  </p>
+  - 🌱 I’m currently learning web development (HTML5, CSS3 and JavaScript) and Linux server
+  - 📚 Student at Software Engineering
   
   ### About me
   <p align="justify"> 
