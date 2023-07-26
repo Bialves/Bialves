@@ -1,6 +1,6 @@
 ## Hi, I’m Bia 👋
 <div>
-    <div style="float: right">
+    <div style="float: rigth">
         <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
     </div>
 - 🌱 I’m currently learning web development (HTML5, CSS3 and JavaScript) and Linux server
