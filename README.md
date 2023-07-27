@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-- 🌱 I’m currently learning web development (HTML5, CSS3 and JavaScript) and Linux server
+- 🌱 I’m currently learning web development (HTML5, CSS3 and JavaScript) and Linux server<br>
 - 📚 Student at Software Engineering
 </p>
 
