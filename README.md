@@ -1,12 +1,10 @@
 ## Hi, I’m Bia 👋
-<div>
-<div style="float: right">
-    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white">
-</div>
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
+<p align="left"> 
 - 🌱 I’m currently learning web development (HTML5, CSS3 and JavaScript) and Linux server
 - 📚 Student at Software Engineering
-</div>
+</p>
 
 ### About me
 <p align="justify"> 
