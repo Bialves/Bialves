@@ -15,8 +15,8 @@ My name is Bianca and my nickname is Bia, I'm 19 years old, I currently live in 
 <div>
   <a href="https://github.com/Bialves">
     <p align="center">
-      <img loading="lazy" height="155em" src="https://github-readme-stats.vercel.app/api?username=Bialves&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" >
-      <img loading="lazy" height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bialves&layout=compact&langs_count=7&theme=nightowl" >
+      <img loading="lazy" height="155em" src="https://github-readme-stats.vercel.app/api?username=Bialves&show_icons=true&theme=jolly&include_all_commits=true&count_private=true" >
+      <img loading="lazy" height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bialves&layout=compact&langs_count=7&theme=jolly" >
     </p>
 </div>
 
