@@ -6,7 +6,7 @@
 - 📚 Student at Software Engineering
 </p>
 
-### About me
+### 📢 About me
 <p align="left"> 
 My name is Bianca and my nickname is Bia, I'm 19 years old, I currently live in Brazil and I am studying Software Engineering at PUCRS university. My contact with programming began in 2015, through social educational robotics projects and FIRST competitions. I am curious about everything involving technology and determined to learn new things, however, at the moment I am most interested in the areas of game development, algorithm analysis and back-end development.
 </p>
@@ -18,6 +18,7 @@ My name is Bianca and my nickname is Bia, I'm 19 years old, I currently live in 
       <img loading="lazy" height="155em" src="https://github-readme-stats.vercel.app/api?username=Bialves&show_icons=true&theme=jolly&include_all_commits=true&count_private=true" >
       <img loading="lazy" height="155em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bialves&layout=compact&langs_count=7&theme=jolly" >
     </p>
+  </a>
 </div>
 
 <p align="center">
