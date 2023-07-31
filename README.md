@@ -1,4 +1,4 @@
-<h1 class="purple" id="purple-h"> Hi, I’m Bia </h1>
+# <span style="color:Blue"> Hi, I’m Bia </span>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="370px" max-width="370px" width="370px" align="right">
 
 <p align="left"> 
