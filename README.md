@@ -1,4 +1,4 @@
-## <span style="color:blue"> Hi, I’m Bia </span>
+## <span style="color:purple"> Hi, I’m Bia </span>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="370px" max-width="370px" width="370px" align="right">
 
 <p align="left"> 
