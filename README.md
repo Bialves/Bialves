@@ -1,4 +1,4 @@
-# <font color="red">Hi, I'm Bia!</font>
+# Hi, I'm Bia!
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="370px" max-width="370px" width="370px" align="right">
 
 <p align="left"> 
@@ -6,7 +6,7 @@
 - 📚 Student at Software Engineering
 </p>
 
-### 📢 About me
+### 📢 <font color="purple">About me</font>
 <p align="left"> 
 My name is Bianca and my nickname is Bia, I'm 19 years old, I currently live in Brazil and I am studying Software Engineering at PUCRS university. My contact with programming began in 2015, through social educational robotics projects and FIRST competitions. I am curious about everything involving technology and determined to learn new things, however, at the moment I am most interested in the areas of game development, algorithm analysis and back-end development.
 </p>
