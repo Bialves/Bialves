@@ -11,7 +11,7 @@
 My name is Bianca and my nickname is Bia, I'm 19 years old, I currently live in Brazil and I am studying Software Engineering at PUCRS university. My contact with programming began in 2015, through social educational robotics projects and FIRST competitions. I am curious about everything involving technology and determined to learn new things, however, at the moment I am most interested in the areas of game development, algorithm analysis and back-end development.
 </p>
 
-### :dart: $\textcolor{plum}{\textsf{Skills}}$
+### :dart: Skills
 <div>
   <a href="https://github.com/Bialves">
     <p align="center">
@@ -37,3 +37,17 @@ My name is Bianca and my nickname is Bia, I'm 19 years old, I currently live in 
 [![Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-da-silva-alves-309442201/)
 [![Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:biancadsalves@gmail.com)
 [![Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/biadsalves)
+
+<!---
+Change color text: $\textcolor{COLOR}{\textsf{TEXT}}$
+
+Notes:
+  > **Note**  >= blue
+  > text...
+  
+  > **Warning**  >= yellow
+  > text...
+  
+  > **Important**  >= purple
+  > text...
+-->
