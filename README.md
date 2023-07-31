@@ -1,4 +1,5 @@
 ## Hi, I’m Bia 👋
+{: .gitlab-purple}
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="370px" max-width="370px" width="370px" align="right">
 
 <p align="left"> 
