@@ -1,4 +1,4 @@
-# ${\color{purple} Hi, I’m Bia}$
+# <p style='color:red'> Hi, I'm Bia! </p>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="370px" max-width="370px" width="370px" align="right">
 
 <p align="left"> 
