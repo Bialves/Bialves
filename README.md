@@ -1,11 +1,4 @@
-<style>
-  red { color: Red }
-  orange { color: Orange }
-  green { color: Green }
-  purple { color: Purple }
-</style>
-
-## <purple> Hi, I’m Bia </purple>
+<h1 class="purple" id="purple-h"> Hi, I’m Bia </h1>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="370px" max-width="370px" width="370px" align="right">
 
 <p align="left"> 
