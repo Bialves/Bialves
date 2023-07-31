@@ -1,4 +1,4 @@
-# <span style="color:green"> Hi, I’m Bia </span>
+# $${\color{red} Hi, I’m Bia}$$
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="370px" max-width="370px" width="370px" align="right">
 
 <p align="left"> 
