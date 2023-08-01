@@ -6,7 +6,7 @@
 - 📚 Student at Software Engineering
 </p>
 
-***
+___
 
 ### 📢 About me
 <p align="left"> 
