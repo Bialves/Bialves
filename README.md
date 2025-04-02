@@ -2,7 +2,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="370px" max-width="370px" width="370px" align="right">
 
 <p align="left"> 
-- 🚀 I’m currently working at HP Inc. as RnD intern<br>
+- 🚀 I’m currently working at HP Inc. as a Software Engineer<br>
 - 📚 Student at Software Engineering
 </p>
 
