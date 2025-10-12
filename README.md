@@ -8,7 +8,7 @@
 
 ### 📢 About me
 <p align="left"> 
-My name is Bianca and my nickname is Bia, I'm 21 years old, I currently live in Brazil and I'm studying Software Engineering at PUCRS university. My contact with programming began in 2016, through social educational robotics projects and FIRST competitions. I am curious about everything involving technology and determined to learn new things, however, at the moment I am most interested in the areas of game development and front-end development.
+My name is Bianca and my nickname is Bia, I'm 22 years old, I currently live in Brazil and I'm studying Software Engineering at PUCRS university. My contact with programming began in 2016, through social educational robotics projects and FIRST competitions. I am curious about everything involving technology and determined to learn new things, however, at the moment I am most interested in the areas of game development and front-end development.
 </p>
 
 ### :dart: Skills
@@ -26,15 +26,21 @@ My name is Bianca and my nickname is Bia, I'm 21 years old, I currently live in 
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" >
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" >
   <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" >
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" >
-  <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" >
-  <img src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white" >
+  <img src="https://img.shields.io/badge/Docker-0078D6?style=for-the-badge&logo=docker&logoColor=white" >
+  <img src="https://img.shields.io/badge/Java-f2a209.svg?style=for-the-badge&logo=java&logoColor=white" >
+  <img src="https://img.shields.io/badge/.NET-purple.svg?style=for-the-badge&logo=dotnet&logoColor=white" >
+  <img src="https://img.shields.io/badge/WinUI-blue.svg?style=for-the-badge&logo=winui&logoColor=white" >
+  <img src="https://img.shields.io/badge/Node-68A063.svg?style=for-the-badge" >
+  <img src="https://img.shields.io/badge/NPM-f2170f.svg?style=for-the-badge&logo=npm&logoColor=white" >
+  <img src="https://img.shields.io/badge/JavaScript-fffb00.svg?style=for-the-badge&logo=javascript&logoColor=black" >
+  <img src="https://img.shields.io/badge/TypeScript-blue.svg?style=for-the-badge&logo=typescript&logoColor=white" >
+  <img src="https://img.shields.io/badge/Expo_Go-black.svg?style=for-the-badge&logo=expo&logoColor=white" >
+  
 </p>
 
 ### :mailbox: Contacts
-[![Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bianca-da-silva-alves-309442201/)
+[![Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/biancadsalves/)
 [![Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:biancadsalves@gmail.com)
-[![Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/biadsalves)
 
 <!---
 Change color text: $\textcolor{COLOR}{\textsf{TEXT}}$
